@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCore6CosmosValueConverter", "EFCore6CosmosValueConverter\EFCore6CosmosValueConverter.csproj", "{A1553966-0BA6-43B1-9C1A-9F6581999AEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCore5CosmosValueConverter", "EFCore5CosmosValueConverter\EFCore5CosmosValueConverter.csproj", "{E5B737A7-8576-4AA1-8ACB-0B8D96DCA3F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1553966-0BA6-43B1-9C1A-9F6581999AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1553966-0BA6-43B1-9C1A-9F6581999AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1553966-0BA6-43B1-9C1A-9F6581999AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1553966-0BA6-43B1-9C1A-9F6581999AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5B737A7-8576-4AA1-8ACB-0B8D96DCA3F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5B737A7-8576-4AA1-8ACB-0B8D96DCA3F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5B737A7-8576-4AA1-8ACB-0B8D96DCA3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5B737A7-8576-4AA1-8ACB-0B8D96DCA3F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {507A6171-662A-4973-AE40-260883FAC38D}
+	EndGlobalSection
+EndGlobal
